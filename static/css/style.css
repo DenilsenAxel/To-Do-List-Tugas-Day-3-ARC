@@ -1,0 +1,9 @@
+.done{
+    text-decoration: line-through;
+}
+a{
+    color: black;
+}
+a:hover{
+    text-decoration: solid;
+}
